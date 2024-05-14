@@ -2,9 +2,9 @@
 Hello Data Enthusiast!! In this repository i want to share my analytical process of a data analytic project. For you that new to data analysis and visualization, you can learn completely from start to end. If you are a professional or recruiter, this is intended to show my skills and expertise. Please review and give me an insight too. <br>
 This repository contains :
 1. README (this file), a introduction and explanation about this project.
-2. Jupyter Notebook, tools to test my code and show visual result of data visualization.
-3. Dataset, data used in this project.
-4. Presentaion, a file that present the result. When you do data analysis you have to share the result effectively to stakeholders.
+2. Jupyter Notebook (.ipynb), tools to test my code and show visual result of data visualization.
+3. Dataset (.csv), data used in this project.
+4. Presentaion (.pdf), a file that present the result. When you do data analysis you have to share the result effectively to stakeholders.
 
 <img src="https://github.com/prioaji/e_commerce_data_analysis/blob/main/cover.jpg" alt="Screenshot of Presentation"> <br>
 
